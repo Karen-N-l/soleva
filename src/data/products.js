@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Aero Runner",
+    category: "Men",
+    price: 3500,
+    image: "/images/images-2.jpg",
+    isNew: true,
+  },
+  {
+    id: 2,
+    name: "Nova Street",
+    category: "Women",
+    price: 3000,
+    image: "/images/images-7.jpg",
+    isNew: true,
+  },
+  {
+    id: 3,
+    name: "Urban Flex",
+    category: "Men",
+    price: 4500,
+    image: "/images/images-4.jpg",
+    isNew: false,
+  },
+  {
+    id: 4,
+    name: "Cloud Step",
+    category: "Women",
+    price: 4000,
+    image: "/images/images-3.jpg",
+    isNew: true,
+  },
+  {
+    id: 5,
+    name: "Street Mini",
+    category: "Kids",
+    price: 2500,
+    image: "/images/images-5.jpg",
+    isNew: false,
+  },
+  {
+    id: 6,
+    name: "Velocity",
+    category: "Men",
+    price: 5000,
+    image: "/images/images-8.jpg",
+    isNew: true,
+  },
+  {
+    id: 7,
+    name: "Luna Move",
+    category: "Women",
+    price: 3800,
+    image: "/images/images-11.jpg",
+    isNew: false,
+  },
+  {
+    id: 8,
+    name: "Jump Jr.",
+    category: "Kids",
+    price: 2800,
+    image: "/images/images-14.jpg",
+    isNew: true,
+  },
+];
+
+export default products;
